@@ -4,7 +4,9 @@ A visualization project that analyzes the change in science fiction movies over 
 - Quantity
 - Sub-Genre breakup
 - Ratings
-- Grossing
+- Highest Grossing
+
+Built using React module ChartJs.
 
 ## Website Link
-https://apoorva-sh.github.io/sci_fi/
+https://scifithroughtheages.com/
